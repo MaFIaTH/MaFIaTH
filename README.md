@@ -16,6 +16,8 @@ Just a gamer who likes games so much that they wanna create one as well.
 ### Skills
 
 <p align="left">
+<a href="https://docs.unity.com/" target="_blank" rel="noreferrer"><img src="https://gpuopen.com/wp-content/uploads/2021/10/U_Logo_White_RGB.png" width="150" height="53" alt="Unity" /></a>
+  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 </p>
                     
@@ -38,3 +40,4 @@ Just a gamer who likes games so much that they wanna create one as well.
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/MaFIaTH/AAT_Script_Visualizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MaFIaTH&repo=AAT_Script_Visualizer&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MaFIaTH/AAT_TextExtractor" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MaFIaTH&repo=AAT_TextExtractor&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/XODIC-STUDIO/KAFOO_The_Root_of_Corruption" align="middle"><img align="middle" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Speedspencer&repo=KAFOO_The_Root_of_Corruption&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
