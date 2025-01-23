@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mafiath" alt="mafiath" /></a> </p>
 
-- 🔭 I’m currently working on **Quebic**
+- 🔭 I’m currently working on **Secret Project**
 
 - 🌱 I’m currently learning **Godot, Javascript, FoundryVTT**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mafeeyawat@gmail.com**
 
-- ⚡ Tidbits: **Solidarity to working class!**
+- ⚡ Tidbits: **Solidarity to the working class!**
 
 <p align="left">
 </p>
