@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **mafeeyawat@gmail.com**
 
+- 📁 My portfolio: **https://mafiath.github.io/mafeeyawat-portfolio**
+
 - ⚡ Tidbits: **Solidarity to the working class!**
 
 <p align="left">
